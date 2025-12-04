@@ -1,7 +1,10 @@
-pandas
+fastapi
+uvicorn
 numpy
+pandas
 scikit-learn
-matplotlib
-seaborn
-mlflow
-dagshub
+xgboost
+joblib
+onnxruntime        # si tu utilises ONNX 
+pydantic
+python-dotenv      # pour charger .env si besoin
